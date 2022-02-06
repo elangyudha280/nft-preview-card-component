@@ -87,6 +87,7 @@ code for description
   font-family: var(--outfit-font-family);
   transition: all 0.5s;
   color: #fff;
+  font-weight: 900;
   letter-spacing: 1px;
   text-transform: capitalize;
   cursor: pointer;
